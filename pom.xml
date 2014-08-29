@@ -19,7 +19,7 @@
           <name>Clojars repository</name>
           <url>https://clojars.org/repo</url>
     </repository>
-  </distributionManagement></url></name></id></repository></distributionManagement>
+  </distributionManagement>
 
   <dependencies>
     <dependency>
